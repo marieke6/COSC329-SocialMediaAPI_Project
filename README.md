@@ -22,4 +22,8 @@ Instagram is a free online photo-sharing app and social media platform that was 
  - Finalize any missing details and submit deliverables for the project ( week 14)
 
 
+# Instructions:
+ In order to run this project..
+
+
  
