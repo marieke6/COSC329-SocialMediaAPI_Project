@@ -3,8 +3,8 @@
  ​​     Explore a social media API of your choice to gather actual data from specific user accounts to interpret learning information (e.g. identify topics students have trouble with, identify the major complaint topics, identify major and positive contributors to discussions, identify types of contributions made in discussions, identify sentiment in the text, etc.). Create an interactive visual dashboard for an administrator to see these analyses. Your dashboard should show at least 5 types of information using different kinds of graphs. A user should be able to apply filters to the data and the dashboard should then update the visualization accordingly.
 
 # Social media site of interest:
-Social medial site of interest: Snapchat. 
-Snapchat is a social networking application that allows users to send images and short videos as well as other multimedia communications (called snaps). Unlike other social media platforms, Snapchat messages are only viewable for a brief period of time before disappearing.
+Social medial site of interest: Instagram. 
+Instagram is a free online photo-sharing app and social media platform that was purchased by Facebook in 2012. Instagram is a mobile app that allows users to edit and share images and short videos.
 
 
 # Requirements :
