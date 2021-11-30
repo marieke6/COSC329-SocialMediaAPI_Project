@@ -1,5 +1,5 @@
 # COSC329 Social Media Api Project
-## Marieke Gutter-Spence 43435445
+## Marieke Gutter-Spence (43435445)
  ​​     Explore a social media API of your choice to gather actual data from specific user accounts to interpret learning information (e.g. identify topics students have trouble with, identify the major complaint topics, identify major and positive contributors to discussions, identify types of contributions made in discussions, identify sentiment in the text, etc.). Create an interactive visual dashboard for an administrator to see these analyses. Your dashboard should show at least 5 types of information using different kinds of graphs. A user should be able to apply filters to the data and the dashboard should then update the visualization accordingly.
 
 # Social media site of interest:
