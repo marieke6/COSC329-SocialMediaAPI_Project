@@ -1,16 +1,20 @@
 # COSC329 Social Media Api Project
-## Marieke Gutter-Spence (43435445)
+## Marieke Gutter-Spence 
  ​​     Explore a social media API of your choice to gather actual data from specific user accounts to interpret learning information (e.g. identify topics students have trouble with, identify the major complaint topics, identify major and positive contributors to discussions, identify types of contributions made in discussions, identify sentiment in the text, etc.). Create an interactive visual dashboard for an administrator to see these analyses. Your dashboard should show at least 5 types of information using different kinds of graphs. A user should be able to apply filters to the data and the dashboard should then update the visualization accordingly.
 
 # Social media site of interest:
-Social medial site of interest: Instagram. 
-Instagram is a free online photo-sharing app and social media platform that was purchased by Facebook in 2012. Instagram is a mobile app that allows users to edit and share images and short videos.
+Social medial site of interest: Twitter. 
+Twitter is a free social networking microblogging website that allows users to send out brief messages known as tweets. Tweets and tweet replies can be sent through text message, desktop software, or the Twitter.com website. Twitter is set to be public by default.
+
 
 
 # Requirements :
 1. Identify the social media site of interest, explain what this site is about and the information of interest.
 2.  Grab the data, develop an interactive dashboard to visualize the data.
 3.  show 5+ types of data graphs, provide filters for each type of graph, explain how the graphs and the use of filters can help the users understand what is happening on the site.
+
+## Limitations
+- 
 
 
 ## Project Timeline:
@@ -20,7 +24,8 @@ Instagram is a free online photo-sharing app and social media platform that was 
  - continue development of dashboard, finalize details ( week 11/12)
  - Create a video for submission of the dashboard and features (week 13)
  - Finalize any missing details and submit deliverables for the project ( week 14)
- 
+ -  Ran into issues getting data for original project idea had to re-wrok the project entirely .
+
  # Data:
  -  
 
