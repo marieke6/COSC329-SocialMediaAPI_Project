@@ -13,25 +13,15 @@ Twitter is a free social networking microblogging website that allows users to s
 2.  Grab the data, develop an interactive dashboard to visualize the data.
 3.  show 5+ types of data graphs, provide filters for each type of graph, explain how the graphs and the use of filters can help the users understand what is happening on the site.
 
-## Limitations
-- 
-
-
-## Project Timeline:
- - Plan and research API’s that may be useful for the project, as well as interesting and implementable (Week 7/8)
- - Pick social media site of interest, and find relevant information about the site in order to gather topics of interest or major complaints from users. (Week 9 - research)
- - Overbreak begin to develop the interactive dashboard and decide on the five variations of graphs ( week 10)
- - continue development of dashboard, finalize details ( week 11/12)
- - Create a video for submission of the dashboard and features (week 13)
- - Finalize any missing details and submit deliverables for the project ( week 14)
- -  Ran into issues getting data for original project idea had to re-wrok the project entirely .
-
  # Data:
- -  
+ -  Data grabbed in this project focuses on the idea of visualizing the use of the hashtag #Covid for  200 tweets in the past month.  
 
 
 # Instructions:
  In order to run this project..
-
-
+ You will need to gain access to consumer keys and access tokens for the twitter api, through the twitter developers website. My personal tokens have been removed form the scrips.
  
+ In the terminal you will need to have the following on your machine in order to run hashtagscrape.py:
+ -  Pip install tweepy
+ -  Pip install Pandas 
+
